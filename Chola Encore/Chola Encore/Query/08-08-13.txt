@@ -1,0 +1,1 @@
+alter table chola_trn_Tspdcpullout add spdcpullout_remarks varchar(255) default null after spdcpullout_reasongid
