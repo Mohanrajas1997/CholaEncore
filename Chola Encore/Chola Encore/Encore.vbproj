@@ -1,0 +1,1548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C446BF83-20C7-45B6-9F98-69BC0B584E2E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Encore.My.MyApplication</StartupObject>
+    <RootNamespace>Encore</RootNamespace>
+    <AssemblyName>Encore</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/Chola/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Encore.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Encore.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Encore.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="FlexiLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ad9363d74d37702c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FlexiLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Excel, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\frmAgreementReport.Designer.vb">
+      <DependentUpon>frmAgreementReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAgreementReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmalmaraentry.designer.vb">
+      <DependentUpon>frmalmaraentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmalmaraentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmaudittrail.Designer.vb">
+      <DependentUpon>frmaudittrail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmaudittrail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmauthdateupdate.Designer.vb">
+      <DependentUpon>frmauthdateupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmauthdateupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmauthimport.Designer.vb">
+      <DependentUpon>frmauthimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmauthimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAuthrejectreason.Designer.vb">
+      <DependentUpon>frmAuthrejectreason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAuthrejectreason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmauthremovalpostentry.Designer.vb">
+      <DependentUpon>frmauthremovalpostentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmauthremovalpostentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmauthsummary.Designer.vb">
+      <DependentUpon>frmauthsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmauthsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbankmaster.Designer.vb">
+      <DependentUpon>frmbankmaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbankmaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbankreport.Designer.vb">
+      <DependentUpon>frmbankreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbankreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBatchCreation.Designer.vb">
+      <DependentUpon>frmBatchCreation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBatchCreation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbatchdespatch.Designer.vb">
+      <DependentUpon>frmbatchdespatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbatchdespatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbatchdespatchreport.Designer.vb">
+      <DependentUpon>frmbatchdespatchreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbatchdespatchreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbatchentry.Designer.vb">
+      <DependentUpon>frmbatchentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbatchentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbatchreport.Designer.vb">
+      <DependentUpon>frmbatchreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbatchreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBatchSingleEntry.Designer.vb">
+      <DependentUpon>frmBatchSingleEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBatchSingleEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbatchsummary.Designer.vb">
+      <DependentUpon>frmbatchsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbatchsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBatchSummReport.Designer.vb">
+      <DependentUpon>frmBatchSummReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBatchSummReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbounceentry.Designer.vb">
+      <DependentUpon>frmbounceentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbounceentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBounceEntryDelete.designer.vb">
+      <DependentUpon>frmBounceEntryDelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBounceEntryDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbounceimport.Designer.vb">
+      <DependentUpon>frmbounceimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbounceimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbounceinward.Designer.vb">
+      <DependentUpon>frmbounceinward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbounceinward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbounceinwardreport.Designer.vb">
+      <DependentUpon>frmbounceinwardreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbounceinwardreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbouncepulloutentry.Designer.vb">
+      <DependentUpon>frmbouncepulloutentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbouncepulloutentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbouncereason.Designer.vb">
+      <DependentUpon>frmbouncereason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbouncereason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbouncereport.Designer.vb">
+      <DependentUpon>frmbouncereport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbouncereport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmchequeentry.Designer.vb">
+      <DependentUpon>frmchequeentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmchequeentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChngPktPayMode.Designer.vb">
+      <DependentUpon>frmChngPktPayMode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmChngPktPayMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmchqentry.Designer.vb">
+      <DependentUpon>frmchqentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmchqentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmchqentrybatch.Designer.vb">
+      <DependentUpon>frmchqentrybatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmchqentrybatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmchqentrydelete.Designer.vb">
+      <DependentUpon>frmchqentrydelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmchqentrydelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcitymaster.Designer.vb">
+      <DependentUpon>frmcitymaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcitymaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcityreport.Designer.vb">
+      <DependentUpon>frmcityreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcityreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmclosureimport.Designer.vb">
+      <DependentUpon>frmclosureimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmclosureimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmclosurereport.Designer.vb">
+      <DependentUpon>frmclosurereport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmclosurereport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmclosuresummary.Designer.vb">
+      <DependentUpon>frmclosuresummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmclosuresummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmctsauditsummary.Designer.vb">
+      <DependentUpon>frmctsauditsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmctsauditsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmctsreport.Designer.vb">
+      <DependentUpon>frmctsreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmctsreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmctssummaryreport.Designer.vb">
+      <DependentUpon>frmctssummaryreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmctssummaryreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcyclereport.Designer.vb">
+      <DependentUpon>frmcyclereport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcyclereport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeleteFile.designer.vb">
+      <DependentUpon>frmDeleteFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeleteFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmdeleteproductupdate.Designer.vb">
+      <DependentUpon>frmdeleteproductupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmdeleteproductupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDelinwardFile.designer.vb">
+      <DependentUpon>frmDelinwardFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDelinwardFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDelSwapFile.designer.vb">
+      <DependentUpon>frmDelSwapFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDelSwapFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmdocumentunlock.Designer.vb">
+      <DependentUpon>frmdocumentunlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmdocumentunlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEntryReport.Designer.vb">
+      <DependentUpon>frmEntryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEntryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcholaMIS.Designer.vb">
+      <DependentUpon>frmcholaMIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcholaMIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFindOldSwapPkt.Designer.vb">
+      <DependentUpon>frmFindOldSwapPkt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFindOldSwapPkt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfinoneimport.Designer.vb">
+      <DependentUpon>frmfinoneimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfinoneimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfinonepreconverfileimport.Designer.vb">
+      <DependentUpon>frmfinonepreconverfileimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfinonepreconverfileimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfinonereport.Designer.vb">
+      <DependentUpon>frmfinonereport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfinonereport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmgeneratepostcondisc.Designer.vb">
+      <DependentUpon>frmgeneratepostcondisc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmgeneratepostcondisc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmgenerateprecondisc.Designer.vb">
+      <DependentUpon>frmgenerateprecondisc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmgenerateprecondisc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmgetrefno.Designer.vb">
+      <DependentUpon>frmgetrefno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmgetrefno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmholidayreason.Designer.vb">
+      <DependentUpon>frmholidayreason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmholidayreason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImport.designer.vb">
+      <DependentUpon>frmImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminward.Designer.vb">
+      <DependentUpon>frminward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminwardimport.Designer.vb">
+      <DependentUpon>frminwardimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminwardimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminwardreport.Designer.vb">
+      <DependentUpon>frminwardreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminwardreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminwardsummary.Designer.vb">
+      <DependentUpon>frminwardsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminwardsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminwardupdate.Designer.vb">
+      <DependentUpon>frminwardupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminwardupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLooseChqEntry.designer.vb">
+      <DependentUpon>frmLooseChqEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLooseChqEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmanualbatch.Designer.vb">
+      <DependentUpon>frmmanualbatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmanualbatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmanualbatchentry.Designer.vb">
+      <DependentUpon>frmmanualbatchentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmanualbatchentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmismatchreport.Designer.vb">
+      <DependentUpon>frmmismatchreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmismatchreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmstpulloutreason.Designer.vb">
+      <DependentUpon>frmmstpulloutreason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmstpulloutreason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOldSwapPktCancelEntry.Designer.vb">
+      <DependentUpon>frmOldSwapPktCancelEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOldSwapPktCancelEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOldSwapPktEntry.Designer.vb">
+      <DependentUpon>frmOldSwapPktEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOldSwapPktEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpacketaudit.Designer.vb">
+      <DependentUpon>frmpacketaudit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpacketaudit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpacketauditnew.Designer.vb">
+      <DependentUpon>frmpacketauditnew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpacketauditnew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPacketBlock.designer.vb">
+      <DependentUpon>frmPacketBlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPacketBlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpacketpullout.Designer.vb">
+      <DependentUpon>frmpacketpullout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpacketpullout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPacketPulloutNew.designer.vb">
+      <DependentUpon>frmPacketPulloutNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPacketPulloutNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPatchupdate.Designer.vb">
+      <DependentUpon>frmPatchupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPatchupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPdcSpdcPulloutEntry.Designer.vb">
+      <DependentUpon>frmPdcSpdcPulloutEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPdcSpdcPulloutEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPost.designer.vb">
+      <DependentUpon>frmPost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostalmaraentry.Designer.vb">
+      <DependentUpon>frmpostalmaraentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostalmaraentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostconvdiscreport.Designer.vb">
+      <DependentUpon>frmpostconvdiscreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostconvdiscreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostfinone.Designer.vb">
+      <DependentUpon>frmpostfinone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostfinone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostfinonepreconver.Designer.vb">
+      <DependentUpon>frmpostfinonepreconver.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostfinonepreconver.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostproductupdate.Designer.vb">
+      <DependentUpon>frmpostproductupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostproductupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpostwithfinone.Designer.vb">
+      <DependentUpon>frmpostwithfinone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpostwithfinone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpouchinward.Designer.vb">
+      <DependentUpon>frmpouchinward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpouchinward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpouchInwardAuth.designer.vb">
+      <DependentUpon>frmpouchInwardAuth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpouchInwardAuth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpouchnotreceived.Designer.vb">
+      <DependentUpon>frmpouchnotreceived.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpouchnotreceived.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpouchrejectreverse.Designer.vb">
+      <DependentUpon>frmpouchrejectreverse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpouchrejectreverse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpreconvdiscreport.Designer.vb">
+      <DependentUpon>frmpreconvdiscreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpreconvdiscreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmproductupdate.Designer.vb">
+      <DependentUpon>frmproductupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmproductupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmEntry.Designer.vb">
+      <DependentUpon>FrmEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFileReport.Designer.vb">
+      <DependentUpon>frmFileReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFileReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frminventory.Designer.vb">
+      <DependentUpon>frminventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frminventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmstfile.Designer.vb">
+      <DependentUpon>frmmstfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmstfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpulloutentry.Designer.vb">
+      <DependentUpon>frmpulloutentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpulloutentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpulloutreverseentry.Designer.vb">
+      <DependentUpon>frmpulloutreverseentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpulloutreverseentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPulloutReverseSummary.Designer.vb">
+      <DependentUpon>frmPulloutReverseSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPulloutReverseSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmQryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmQuickView.designer.vb">
+      <DependentUpon>frmQuickView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmQuickView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmrebacthprodwise.Designer.vb">
+      <DependentUpon>frmrebacthprodwise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmrebacthprodwise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmrebatch.Designer.vb">
+      <DependentUpon>frmrebatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmrebatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmreinward.Designer.vb">
+      <DependentUpon>frmreinward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmreinward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmreinwardsummary.Designer.vb">
+      <DependentUpon>frmreinwardsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmreinwardsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmrejectreason.Designer.vb">
+      <DependentUpon>frmrejectreason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmrejectreason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmremovefinone.Designer.vb">
+      <DependentUpon>frmremovefinone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmremovefinone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmremovefinonepreconversion.Designer.vb">
+      <DependentUpon>frmremovefinonepreconversion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmremovefinonepreconversion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportQryMaking.designer.vb">
+      <DependentUpon>frmReportQryMaking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReportQryMaking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmreversepreconversiondisc.Designer.vb">
+      <DependentUpon>frmreversepreconversiondisc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmreversepreconversiondisc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRevTransferCheque.Designer.vb">
+      <DependentUpon>frmRevTransferCheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRevTransferCheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSpdcPulloutEntry.designer.vb">
+      <DependentUpon>frmSpdcPulloutEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSpdcPulloutEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTransferCheque.Designer.vb">
+      <DependentUpon>frmTransferCheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTransferCheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUndoFinoneMapping.Designer.vb">
+      <DependentUpon>frmUndoFinoneMapping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUndoFinoneMapping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUndoPullout.designer.vb">
+      <DependentUpon>frmUndoPullout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUndoPullout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdateagreementno.Designer.vb">
+      <DependentUpon>frmupdateagreementno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdateagreementno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdateauthdate.Designer.vb">
+      <DependentUpon>frmupdateauthdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdateauthdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdatepacket.Designer.vb">
+      <DependentUpon>frmupdatepacket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdatepacket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewentry.Designer.vb">
+      <DependentUpon>frmviewentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmBounceInwardMis.designer.vb">
+      <DependentUpon>frmBounceInwardMis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmBounceInwardMis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmBounceMis.designer.vb">
+      <DependentUpon>frmBounceMis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmBounceMis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmFinoneRecon.Designer.vb">
+      <DependentUpon>frmFinoneRecon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmFinoneRecon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmFinoneReconNew.Designer.vb">
+      <DependentUpon>frmFinoneReconNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmFinoneReconNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmInwardMisNew.Designer.vb">
+      <DependentUpon>frmInwardMisNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmInwardMisNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmpacketmis.Designer.vb">
+      <DependentUpon>frmpacketmis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmpacketmis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmPktMis.Designer.vb">
+      <DependentUpon>frmPktMis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmPktMis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmProductivityMIS.designer.vb">
+      <DependentUpon>frmProductivityMIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmProductivityMIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmStockMis.designer.vb">
+      <DependentUpon>frmStockMis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmStockMis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmStockMisNew.designer.vb">
+      <DependentUpon>frmStockMisNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmStockMisNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmwarehouseMIS.Designer.vb">
+      <DependentUpon>frmwarehouseMIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmwarehouseMIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmsosmis.Designer.vb">
+      <DependentUpon>frmsosmis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmsosmis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpacketpulloutsummary.Designer.vb">
+      <DependentUpon>frmpacketpulloutsummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpacketpulloutsummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdateentry.Designer.vb">
+      <DependentUpon>frmupdateentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdateentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdaterefno.Designer.vb">
+      <DependentUpon>frmupdaterefno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdaterefno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SPDCPatchUpdate.Designer.vb">
+      <DependentUpon>SPDCPatchUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SPDCPatchUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mis\frmfinonepreconverrecon.Designer.vb">
+      <DependentUpon>frmfinonepreconverrecon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mis\frmfinonepreconverrecon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\GlobalODBC.vb" />
+    <Compile Include="Module\modDemoDot.vb" />
+    <Compile Include="Module\ObjExcel.vb" />
+    <Compile Include="Module\XMLExport.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report\frmBounceDumpReport.designer.vb">
+      <DependentUpon>frmBounceDumpReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmBounceDumpReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmBounceEntryReport.designer.vb">
+      <DependentUpon>frmBounceEntryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmBounceEntryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmChqSearchEngine.designer.vb">
+      <DependentUpon>frmChqSearchEngine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmChqSearchEngine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmImpFileReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmLooseEntryReport.designer.vb">
+      <DependentUpon>frmLooseEntryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmLooseEntryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPacketBlockReport.designer.vb">
+      <DependentUpon>frmPacketBlockReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPacketBlockReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPacketPulloutReport.designer.vb">
+      <DependentUpon>frmPacketPulloutReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPacketPulloutReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPacketReport.designer.vb">
+      <DependentUpon>frmPacketReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPacketReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPktDetailRpt.designer.vb">
+      <DependentUpon>frmPktDetailRpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPktDetailRpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPostconvReport.designer.vb">
+      <DependentUpon>frmPostconvReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPostconvReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPreconvReport.designer.vb">
+      <DependentUpon>frmPreconvReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPreconvReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmPulloutReport.designer.vb">
+      <DependentUpon>frmPulloutReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPulloutReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmSearchEngine.designer.vb">
+      <DependentUpon>frmSearchEngine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmSearchEngine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmSPDCPulloutReport.designer.vb">
+      <DependentUpon>frmSPDCPulloutReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmSPDCPulloutReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmSwapList.designer.vb">
+      <DependentUpon>frmSwapList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmSwapList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmSwapListReport.designer.vb">
+      <DependentUpon>frmSwapListReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmSwapListReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmSwapReport.designer.vb">
+      <DependentUpon>frmSwapReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmSwapReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmAgreementReport.resx">
+      <DependentUpon>frmAgreementReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmalmaraentry.resx">
+      <DependentUpon>frmalmaraentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmaudittrail.resx">
+      <DependentUpon>frmaudittrail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmauthdateupdate.resx">
+      <DependentUpon>frmauthdateupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmauthimport.resx">
+      <DependentUpon>frmauthimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAuthrejectreason.resx">
+      <DependentUpon>frmAuthrejectreason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmauthremovalpostentry.resx">
+      <DependentUpon>frmauthremovalpostentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmauthsummary.resx">
+      <DependentUpon>frmauthsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbankmaster.resx">
+      <DependentUpon>frmbankmaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbankreport.resx">
+      <DependentUpon>frmbankreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBatchCreation.resx">
+      <DependentUpon>frmBatchCreation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbatchdespatch.resx">
+      <DependentUpon>frmbatchdespatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbatchdespatchreport.resx">
+      <DependentUpon>frmbatchdespatchreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbatchentry.resx">
+      <DependentUpon>frmbatchentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbatchreport.resx">
+      <DependentUpon>frmbatchreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBatchSingleEntry.resx">
+      <DependentUpon>frmBatchSingleEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbatchsummary.resx">
+      <DependentUpon>frmbatchsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBatchSummReport.resx">
+      <DependentUpon>frmBatchSummReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbounceentry.resx">
+      <DependentUpon>frmbounceentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBounceEntryDelete.resx">
+      <DependentUpon>frmBounceEntryDelete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbounceimport.resx">
+      <DependentUpon>frmbounceimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbounceinward.resx">
+      <DependentUpon>frmbounceinward.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbounceinwardreport.resx">
+      <DependentUpon>frmbounceinwardreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbouncepulloutentry.resx">
+      <DependentUpon>frmbouncepulloutentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbouncereason.resx">
+      <DependentUpon>frmbouncereason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbouncereport.resx">
+      <DependentUpon>frmbouncereport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmchequeentry.resx">
+      <DependentUpon>frmchequeentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChngPktPayMode.resx">
+      <DependentUpon>frmChngPktPayMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmchqentry.resx">
+      <DependentUpon>frmchqentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmchqentrybatch.resx">
+      <DependentUpon>frmchqentrybatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmchqentrydelete.resx">
+      <DependentUpon>frmchqentrydelete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcitymaster.resx">
+      <DependentUpon>frmcitymaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcityreport.resx">
+      <DependentUpon>frmcityreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmclosureimport.resx">
+      <DependentUpon>frmclosureimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmclosurereport.resx">
+      <DependentUpon>frmclosurereport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmclosuresummary.resx">
+      <DependentUpon>frmclosuresummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmctsauditsummary.resx">
+      <DependentUpon>frmctsauditsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmctsreport.resx">
+      <DependentUpon>frmctsreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmctssummaryreport.resx">
+      <DependentUpon>frmctssummaryreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcyclereport.resx">
+      <DependentUpon>frmcyclereport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDeleteFile.resx">
+      <DependentUpon>frmDeleteFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDelinwardFile.resx">
+      <DependentUpon>frmDelinwardFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDelSwapFile.resx">
+      <DependentUpon>frmDelSwapFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmdocumentunlock.resx">
+      <DependentUpon>frmdocumentunlock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEntryReport.resx">
+      <DependentUpon>frmEntryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcholaMIS.resx">
+      <DependentUpon>frmcholaMIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFindOldSwapPkt.resx">
+      <DependentUpon>frmFindOldSwapPkt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfinoneimport.resx">
+      <DependentUpon>frmfinoneimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfinonepreconverfileimport.resx">
+      <DependentUpon>frmfinonepreconverfileimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfinonereport.resx">
+      <DependentUpon>frmfinonereport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmgeneratepostcondisc.resx">
+      <DependentUpon>frmgeneratepostcondisc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmgenerateprecondisc.resx">
+      <DependentUpon>frmgenerateprecondisc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmgetrefno.resx">
+      <DependentUpon>frmgetrefno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmholidayreason.resx">
+      <DependentUpon>frmholidayreason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImport.resx">
+      <DependentUpon>frmImport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminward.resx">
+      <DependentUpon>frminward.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminwardimport.resx">
+      <DependentUpon>frminwardimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminwardreport.resx">
+      <DependentUpon>frminwardreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminwardsummary.resx">
+      <DependentUpon>frminwardsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminwardupdate.resx">
+      <DependentUpon>frminwardupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLooseChqEntry.resx">
+      <DependentUpon>frmLooseChqEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmanualbatch.resx">
+      <DependentUpon>frmmanualbatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmanualbatchentry.resx">
+      <DependentUpon>frmmanualbatchentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmismatchreport.resx">
+      <DependentUpon>frmmismatchreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmstpulloutreason.resx">
+      <DependentUpon>frmmstpulloutreason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmEntry.resx">
+      <DependentUpon>FrmEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFileReport.resx">
+      <DependentUpon>frmFileReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frminventory.resx">
+      <DependentUpon>frminventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmstfile.resx">
+      <DependentUpon>frmmstfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOldSwapPktCancelEntry.resx">
+      <DependentUpon>frmOldSwapPktCancelEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOldSwapPktEntry.resx">
+      <DependentUpon>frmOldSwapPktEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpacketaudit.resx">
+      <DependentUpon>frmpacketaudit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpacketauditnew.resx">
+      <DependentUpon>frmpacketauditnew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPacketBlock.resx">
+      <DependentUpon>frmPacketBlock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpacketpullout.resx">
+      <DependentUpon>frmpacketpullout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPacketPulloutNew.resx">
+      <DependentUpon>frmPacketPulloutNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPatchupdate.resx">
+      <DependentUpon>frmPatchupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPdcSpdcPulloutEntry.resx">
+      <DependentUpon>frmPdcSpdcPulloutEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPost.resx">
+      <DependentUpon>frmPost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostalmaraentry.resx">
+      <DependentUpon>frmpostalmaraentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostconvdiscreport.resx">
+      <DependentUpon>frmpostconvdiscreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostfinone.resx">
+      <DependentUpon>frmpostfinone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostfinonepreconver.resx">
+      <DependentUpon>frmpostfinonepreconver.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostproductupdate.resx">
+      <DependentUpon>frmpostproductupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpostwithfinone.resx">
+      <DependentUpon>frmpostwithfinone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpouchinward.resx">
+      <DependentUpon>frmpouchinward.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpouchInwardAuth.resx">
+      <DependentUpon>frmpouchInwardAuth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpouchnotreceived.resx">
+      <DependentUpon>frmpouchnotreceived.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpouchrejectreverse.resx">
+      <DependentUpon>frmpouchrejectreverse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpreconvdiscreport.resx">
+      <DependentUpon>frmpreconvdiscreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmproductupdate.resx">
+      <DependentUpon>frmproductupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpulloutentry.resx">
+      <DependentUpon>frmpulloutentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpulloutreverseentry.resx">
+      <DependentUpon>frmpulloutreverseentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPulloutReverseSummary.resx">
+      <DependentUpon>frmPulloutReverseSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmQryReport.resx">
+      <DependentUpon>frmQryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmQuickView.resx">
+      <DependentUpon>frmQuickView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmrebacthprodwise.resx">
+      <DependentUpon>frmrebacthprodwise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmrebatch.resx">
+      <DependentUpon>frmrebatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmreinward.resx">
+      <DependentUpon>frmreinward.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmreinwardsummary.resx">
+      <DependentUpon>frmreinwardsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmrejectreason.resx">
+      <DependentUpon>frmrejectreason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmremovefinone.resx">
+      <DependentUpon>frmremovefinone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmremovefinonepreconversion.resx">
+      <DependentUpon>frmremovefinonepreconversion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportQryMaking.resx">
+      <DependentUpon>frmReportQryMaking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmreversepreconversiondisc.resx">
+      <DependentUpon>frmreversepreconversiondisc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRevTransferCheque.resx">
+      <DependentUpon>frmRevTransferCheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSearch.resx">
+      <DependentUpon>frmSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSpdcPulloutEntry.resx">
+      <DependentUpon>frmSpdcPulloutEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTransferCheque.resx">
+      <DependentUpon>frmTransferCheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUndoFinoneMapping.resx">
+      <DependentUpon>frmUndoFinoneMapping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUndoPullout.resx">
+      <DependentUpon>frmUndoPullout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmupdateagreementno.resx">
+      <DependentUpon>frmupdateagreementno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmupdateauthdate.resx">
+      <DependentUpon>frmupdateauthdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmupdatepacket.resx">
+      <DependentUpon>frmupdatepacket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewentry.resx">
+      <DependentUpon>frmviewentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmBounceInwardMis.resx">
+      <DependentUpon>frmBounceInwardMis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmBounceMis.resx">
+      <DependentUpon>frmBounceMis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmFinoneRecon.resx">
+      <DependentUpon>frmFinoneRecon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmFinoneReconNew.resx">
+      <DependentUpon>frmFinoneReconNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmInwardMisNew.resx">
+      <DependentUpon>frmInwardMisNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmpacketmis.resx">
+      <DependentUpon>frmpacketmis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmPktMis.resx">
+      <DependentUpon>frmPktMis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmProductivityMIS.resx">
+      <DependentUpon>frmProductivityMIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmStockMis.resx">
+      <DependentUpon>frmStockMis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmStockMisNew.resx">
+      <DependentUpon>frmStockMisNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmwarehouseMIS.resx">
+      <DependentUpon>frmwarehouseMIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmsosmis.resx">
+      <DependentUpon>frmsosmis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpacketpulloutsummary.resx">
+      <DependentUpon>frmpacketpulloutsummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmupdateentry.resx">
+      <DependentUpon>frmupdateentry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmupdaterefno.resx">
+      <DependentUpon>frmupdaterefno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SPDCPatchUpdate.resx">
+      <DependentUpon>SPDCPatchUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mis\frmfinonepreconverrecon.resx">
+      <DependentUpon>frmfinonepreconverrecon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmBounceDumpReport.resx">
+      <DependentUpon>frmBounceDumpReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmBounceEntryReport.resx">
+      <DependentUpon>frmBounceEntryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmChqSearchEngine.resx">
+      <DependentUpon>frmChqSearchEngine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmImpFileReport.resx">
+      <DependentUpon>frmImpFileReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmLooseEntryReport.resx">
+      <DependentUpon>frmLooseEntryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPacketBlockReport.resx">
+      <DependentUpon>frmPacketBlockReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPacketPulloutReport.resx">
+      <DependentUpon>frmPacketPulloutReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPacketReport.resx">
+      <DependentUpon>frmPacketReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPktDetailRpt.resx">
+      <DependentUpon>frmPktDetailRpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPostconvReport.resx">
+      <DependentUpon>frmPostconvReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPreconvReport.resx">
+      <DependentUpon>frmPreconvReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPulloutReport.resx">
+      <DependentUpon>frmPulloutReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmSearchEngine.resx">
+      <DependentUpon>frmSearchEngine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmSPDCPulloutReport.resx">
+      <DependentUpon>frmSPDCPulloutReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmSwapList.resx">
+      <DependentUpon>frmSwapList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmSwapListReport.resx">
+      <DependentUpon>frmSwapListReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmSwapReport.resx">
+      <DependentUpon>frmSwapReport.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="chola.ico" />
+    <Content Include="Encore.ico" />
+    <Content Include="Portfolio.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

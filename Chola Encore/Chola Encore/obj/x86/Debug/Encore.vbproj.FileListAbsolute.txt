@@ -1,0 +1,483 @@
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe.config
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.pdb
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.pdb
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAgreementReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmaudittrail.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthdateupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAuthrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthremovalpostentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankmaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchCreation.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSingleEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSummReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryDelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncepulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchequeentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChngPktPayMode.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrybatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrydelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcitymaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcityreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosureimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosurereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosuresummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsauditsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctssummaryreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcyclereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelInwardFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelSwapFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmdocumentunlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcholaMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFindOldSwapPkt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinoneimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverfileimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgeneratepostcondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgenerateprecondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgetrefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmholidayreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseChqEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmismatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstpulloutreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.FrmEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminventory.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstfile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktCancelEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketaudit.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketauditnew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPatchupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPdcSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPost.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinonepreconver.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostwithfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPouchInwardAuth.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchnotreceived.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchrejectreverse.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpreconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutreverseentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReverseSummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebacthprodwise.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinonepreconversion.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmReportQryMaking.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreversepreconversiondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmRevTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Search.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoFinoneMapping.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateagreementno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateauthdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdatepacket.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmviewentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceInwardMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneRecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneReconNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmInwardMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmProductivityMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmwarehouseMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmsosmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketpulloutsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdaterefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.SPDCPatchUpdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverrecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceDumpReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChqSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImpFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlockReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktDetailRpt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPostconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPreconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSPDCPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapList.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapListReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe.config
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.exe
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.xml
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.pdb
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.pdb
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.xml
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAgreementReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmalmaraentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmaudittrail.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthdateupdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAuthrejectreason.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthremovalpostentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankmaster.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchCreation.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatch.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatchreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSingleEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSummReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryDelete.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinward.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinwardreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncepulloutentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereason.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchequeentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChngPktPayMode.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrybatch.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrydelete.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcitymaster.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcityreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosureimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosurereport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosuresummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsauditsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctssummaryreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcyclereport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDeleteFile.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelInwardFile.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelSwapFile.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmdocumentunlock.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmEntryReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcholaMIS.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFindOldSwapPkt.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinoneimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverfileimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonereport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgeneratepostcondisc.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgenerateprecondisc.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgetrefno.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmholidayreason.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminward.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardimport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardupdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseChqEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatch.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatchentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmismatchreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstpulloutreason.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.FrmEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFileReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminventory.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmMain.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstfile.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktCancelEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketaudit.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketauditnew.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlock.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPullout.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutNew.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPatchupdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPdcSpdcPulloutEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPost.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostalmaraentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostconvdiscreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinone.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinonepreconver.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostproductupdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostwithfinone.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchinward.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPouchInwardAuth.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchnotreceived.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchrejectreverse.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpreconvdiscreport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmproductupdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutreverseentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReverseSummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQryReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQuickView.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebacthprodwise.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebatch.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinward.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinwardsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrejectreason.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinone.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinonepreconversion.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmReportQryMaking.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreversepreconversiondisc.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmRevTransferCheque.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Search.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSpdcPulloutEntry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmTransferCheque.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoFinoneMapping.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoPullout.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateagreementno.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateauthdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdatepacket.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmviewentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceInwardMis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceMis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneRecon.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneReconNew.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmInwardMisNew.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketmis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktMis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmProductivityMIS.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMisNew.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmwarehouseMIS.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmsosmis.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketpulloutsummary.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateentry.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdaterefno.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.SPDCPatchUpdate.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverrecon.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Resources.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceDumpReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChqSearchEngine.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImpFileReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseEntryReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlockReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktDetailRpt.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPostconvReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPreconvReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSearchEngine.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSPDCPulloutReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapList.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapListReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapReport.resources
+D:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.vbproj.GenerateResource.Cache
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\bin\Debug\Encore.exe.config
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\bin\Debug\Encore.exe
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\bin\Debug\Encore.pdb
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\bin\Debug\Encore.xml
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.vbproj.ResolveComReference.cache
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmAgreementReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmalmaraentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmaudittrail.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmauthdateupdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmauthimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmAuthrejectreason.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmauthremovalpostentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmauthsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbankmaster.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbankreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBatchCreation.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatch.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatchreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbatchentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbatchreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBatchSingleEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbatchsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBatchSummReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbounceentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryDelete.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbounceimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbounceinward.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbounceinwardreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbouncepulloutentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbouncereason.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmbouncereport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmchequeentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmChngPktPayMode.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmchqentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmchqentrybatch.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmchqentrydelete.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmcitymaster.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmcityreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmclosureimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmclosurereport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmclosuresummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmctsauditsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmctsreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmctssummaryreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmcyclereport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmDeleteFile.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmDelInwardFile.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmDelSwapFile.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmdocumentunlock.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmEntryReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmcholaMIS.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmFindOldSwapPkt.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmfinoneimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverfileimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmfinonereport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmgeneratepostcondisc.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmgenerateprecondisc.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmgetrefno.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmholidayreason.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmImport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminward.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminwardimport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminwardreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminwardsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminwardupdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmLooseChqEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmmanualbatch.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmmanualbatchentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmmismatchreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmmstpulloutreason.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.FrmEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmFileReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frminventory.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmMain.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmmstfile.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktCancelEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpacketaudit.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpacketauditnew.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketBlock.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketPullout.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutNew.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPatchupdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPdcSpdcPulloutEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPost.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostalmaraentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostconvdiscreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostfinone.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostfinonepreconver.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostproductupdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpostwithfinone.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpouchinward.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPouchInwardAuth.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpouchnotreceived.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpouchrejectreverse.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpreconvdiscreport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmproductupdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpulloutentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpulloutreverseentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPulloutReverseSummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmQryReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmQuickView.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmrebacthprodwise.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmrebatch.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmreinward.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmreinwardsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmrejectreason.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmremovefinone.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmremovefinonepreconversion.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmReportQryMaking.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmreversepreconversiondisc.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmRevTransferCheque.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.Search.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSpdcPulloutEntry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmTransferCheque.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmUndoFinoneMapping.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmUndoPullout.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmupdateagreementno.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmupdateauthdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmupdatepacket.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmviewentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBounceInwardMis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBounceMis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmFinoneRecon.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmFinoneReconNew.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmInwardMisNew.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpacketmis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPktMis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmProductivityMIS.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmStockMis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmStockMisNew.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmwarehouseMIS.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmsosmis.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmpacketpulloutsummary.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmupdateentry.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmupdaterefno.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.SPDCPatchUpdate.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverrecon.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.Resources.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBounceDumpReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmChqSearchEngine.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmImpFileReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmLooseEntryReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketBlockReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPacketReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPktDetailRpt.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPostconvReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPreconvReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmPulloutReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSearchEngine.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSPDCPulloutReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSwapList.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSwapListReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.frmSwapReport.resources
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.vbproj.GenerateResource.Cache
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.exe
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.xml
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.pdb
+D:\Murali\KT\Vijayvel\Chola Encore\Chola Encore\obj\x86\Debug\Encore.vbprojResolveAssemblyReference.cache

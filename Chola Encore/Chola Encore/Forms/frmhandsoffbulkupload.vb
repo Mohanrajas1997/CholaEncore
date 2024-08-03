@@ -1,0 +1,460 @@
+﻿Imports System.IO
+Public Class frmhandsoffbulkupload
+    Dim lival, lidup, litotal As Integer
+    Dim lsErrorLogPath As String = Application.StartupPath & "\errorlog.txt"
+    Private Sub btnImport_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnImport.Click
+        Try
+            If txtFileName.Text.Trim = "" Then
+                MessageBox.Show("File path should not be empty", gProjectName, MessageBoxButtons.OK, MessageBoxIcon.Error)
+                txtFileName.Focus()
+                Exit Sub
+            End If
+
+            If cboSheetName.Text.Trim = "" Then
+                MessageBox.Show("Sheet name should not be empty ", gProjectName, MessageBoxButtons.OK, MessageBoxIcon.Error)
+                cboSheetName.Focus()
+                Exit Sub
+            End If
+
+            If cbotype.Text.Trim = "" Then
+                MessageBox.Show("Type should not be empty ", gProjectName, MessageBoxButtons.OK, MessageBoxIcon.Error)
+                cbotype.Focus()
+                Exit Sub
+            End If
+
+            lival = 0
+            lidup = 0
+            litotal = 0
+            pnlWrapper.Enabled = False
+            Me.Cursor = Cursors.WaitCursor
+            lblTotal.Visible = True
+            Importexcel(txtFileName.Text, cboSheetName.Text, cbotype.Text)
+            MessageBox.Show("Total Records:" & litotal & " ;Valid Records:" & lival & " ;Duplicate Record:" & lidup & vbCrLf & "Please review the Error Log in the path " & lsErrorLogPath, "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            pnlWrapper.Enabled = True
+            Me.Cursor = Cursors.Default
+        Catch ex As Exception
+            MessageBox.Show(ex.Message, "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            pnlWrapper.Enabled = True
+            Me.Cursor = Cursors.Default
+        End Try
+    End Sub
+    Private Sub LoadSheet()
+        Dim objXls As New Microsoft.Office.Interop.Excel.Application
+        Dim objBook As Microsoft.Office.Interop.Excel.Workbook
+
+        If Trim(txtFileName.Text) <> "" Then
+            If File.Exists(txtFileName.Text) Then
+                objBook = objXls.Workbooks.Open(txtFileName.Text)
+                cboSheetName.Items.Clear()
+                For i As Integer = 1 To objXls.ActiveWorkbook.Worksheets.Count
+                    cboSheetName.Items.Add(objXls.ActiveWorkbook.Worksheets(i).Name)
+                Next i
+                objXls.Workbooks.Close()
+            End If
+        End If
+        objXls.Quit()
+        ' KillProcess(objXls.Hwnd)
+    End Sub
+    Private Sub Importexcel(ByVal FilePath As String, ByVal SheetName As String, ByVal Type As String)
+        Dim lExcelDatatable As New DataTable
+        Dim lssql As String = ""
+        Dim liIsDuplicate As Integer = 0
+        Dim lsFileGid, lsFileMstGid As String
+        Dim lsDuplicatedtl As String = ""
+        Dim lsSheetName As String = SheetName
+        Dim lsFileName As String
+        Dim lsFieldName(), fsResult As String
+        Dim lsFldNmesInfo As String = ""
+        Dim lschqcnt As String = ""
+
+        If Type = "Pouch Level" Then
+            lsFldNmesInfo = "SNo|Agreement No|Repayment Mode|Customer Name|Type|Remarks|DC No|Cheque Count|Sent To|Sent On"
+        Else
+            lsFldNmesInfo = "SNo|Agreement No|Cheque No|Repayment Mode|Customer Name|Type|Remarks|DC No|Cheque Count|Sent To|Sent On"
+        End If
+
+
+
+        lsFieldName = Split(lsFldNmesInfo, "|")
+
+        'Open Error Log File
+        If File.Exists(lsErrorLogPath) Then
+            FileOpen(1, lsErrorLogPath, OpenMode.Output)
+        Else
+            File.Create(lsErrorLogPath)
+        End If
+
+        Try
+
+            lsFileName = Path.GetFileName(FilePath).ToUpper
+
+            'Retrive Datas From Excel Sheet
+            lExcelDatatable = gpExcelDataset("SELECT * FROM [" & lsSheetName & "$]", FilePath)
+
+            'Checking Column Header
+            For liIndex As Integer = 0 To lExcelDatatable.Columns.Count - 1
+                If (lsFieldName(liIndex).Trim.ToUpper <> lExcelDatatable.Columns(liIndex).ColumnName.ToString.ToUpper) Then
+                    MessageBox.Show("Invalid File Header, Correct Header is " & lsFldNmesInfo, "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                    Exit Sub
+                End If
+            Next
+
+            lssql = " select file_gid from chola_mst_tfile where file_name='" & lsFileName & "' and file_sheetname='" & SheetName & "'"
+
+            If Val(gfExecuteScalar(lssql, gOdbcConn)) <> 0 Then
+                MsgBox("File Name Already Imported", MsgBoxStyle.Information)
+                Me.Cursor = Cursors.Default
+                btnImport.Enabled = True
+                lblTotal.Visible = False
+                FileClose(1)
+                Exit Sub
+            End If
+
+            Try
+                lssql = " insert into chola_mst_tfile(file_name,file_sheetname,import_by,import_on)"
+                lssql &= " values"
+                lssql &= "("
+                lssql &= "'" & lsFileName & "',"
+                lssql &= "'" & SheetName & "',"
+                lssql &= "'" & gUserName & "',"
+                lssql &= "'" & Format(CDate(Now()), "yyyy-MM-dd") & "'"
+                lssql &= ")"
+
+                lssql = gfInsertQry(lssql, gOdbcConn)
+                If lssql = "" Then
+                    MsgBox("Error occured in insertion", MsgBoxStyle.Information, gProjectName)
+                    Application.UseWaitCursor = False
+                    Exit Sub
+                End If
+
+            Catch ex As Exception
+                MsgBox("Error occured in insertion", MsgBoxStyle.Information, gProjectName)
+                Application.UseWaitCursor = False
+                Exit Sub
+            End Try
+
+            lssql = " select file_gid from chola_mst_tfile where file_name='" & lsFileName & "' and file_sheetname='" & SheetName & "'"
+
+            lsFileMstGid = gfExecuteScalar(lssql, gOdbcConn)
+
+            If Type = "Pouch Level" Then
+
+                'Insert Record to the Table
+                For liIndex As Integer = 0 To lExcelDatatable.Rows.Count - 1
+                    litotal = lExcelDatatable.Rows.Count
+                    lblTotal.Text = "Processing " & liIndex + 1 & "/" & lExcelDatatable.Rows.Count
+                    Application.DoEvents()
+
+                    If lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim = "" Then
+                        GoTo GoNext
+                    End If
+
+                    'Check Valid Type
+                    lssql = " Select handsofftype_gid from chola_mst_thandsofftype where " & _
+                                " handsofftype_name='" & lExcelDatatable.Rows(liIndex).Item("Type").ToString.Trim & "'" & _
+                                " and delete_flag='N' "
+
+                    lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    'Write Dulicate Record in Error log
+                    If Val(lsFileGid) = 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Invalid Type " & lExcelDatatable.Rows(liIndex).Item("Type").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    If lExcelDatatable.Rows(liIndex).Item("DC No").ToString.Trim = "" Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " DC No Should Not Blank :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+
+                    If Val(lExcelDatatable.Rows(liIndex).Item("Cheque Count").ToString.Trim) = 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & "Cheque Count Should Not Zero :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    If lExcelDatatable.Rows(liIndex).Item("Sent To").ToString.Trim = "" Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Sent To Should Not Blank :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    If Not IsDate(lExcelDatatable.Rows(liIndex).Item("Sent On").ToString.Trim) Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Invalid Sent On date:- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    'Check for Duplicate
+                    lssql = " Select handsoff_gid from chola_trn_thandsoff where " & _
+                                " handsoff_agreementno='" & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & "'"
+
+                    lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    'Write Dulicate Record in Error log
+                    If Val(lsFileGid) > 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Duplicate exist " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    'Check for Duplicate
+                    lssql = " Select handsoff_gid from chola_trn_thandsoff where " & _
+                                " handsoff_shortagreementno='" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "'"
+
+                    lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    'Write Dulicate Record in Error log
+                    If Val(lsFileGid) > 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Duplicate exist " & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & ""
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext
+                    End If
+
+                    Try
+
+                        lssql = " Insert into chola_trn_thandsoff (file_mst_gid,handsoff_agreementno,handsoff_shortagreementno,handsoff_repaymentmode,"
+                        lssql &= "handsoff_customername,handsoff_type,handsoff_remarks,handsoff_dcno,handsoff_chqcnt,handsoff_to,handsoff_handsoffdate,handsoff_importdate) values ("
+                        lssql &= lsFileMstGid & ","
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString) & "',"
+                        lssql &= "'" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Repayment Mode").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Customer Name").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Type").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Remarks").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("DC No").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Cheque Count").ToString) & "',"
+                        lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Sent To").ToString) & "',"
+                        lssql &= "'" & Format(CDate(QuoteFilter(lExcelDatatable.Rows(liIndex)("Sent On").ToString)), "yyyy-MM-dd") & "',"
+                        lssql &= "sysdate())"
+
+                        fsResult = gfInsertQry(lssql, gOdbcConn)
+
+                        If Val(fsResult) = 0 Then
+                            MessageBox.Show("Some Error occurred while inserting ", "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        End If
+                        lival += 1
+                    Catch ex As Exception
+                        MsgBox("Error occured in inserting", MsgBoxStyle.Information, gProjectName)
+                        Application.UseWaitCursor = False
+                        Exit Sub
+                    End Try
+GoNext:
+                Next
+            Else
+
+                'Insert Record to the Table
+                For liIndex As Integer = 0 To lExcelDatatable.Rows.Count - 1
+                    litotal = lExcelDatatable.Rows.Count
+                    lblTotal.Text = "Processing " & liIndex + 1 & "/" & lExcelDatatable.Rows.Count
+                    Application.DoEvents()
+
+                    If lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim = "" Then
+                        GoTo GoNext1
+                    End If
+
+                    'Check Valid Type
+                    lssql = " Select handsofftype_gid from chola_mst_thandsofftype where " & _
+                                " handsofftype_name='" & lExcelDatatable.Rows(liIndex).Item("Type").ToString.Trim & "'" & _
+                                " and delete_flag='N' "
+
+                    lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    'Write Dulicate Record in Error log
+                    If Val(lsFileGid) = 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Invalid Type " & lExcelDatatable.Rows(liIndex).Item("Type").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+                    If lExcelDatatable.Rows(liIndex).Item("DC No").ToString.Trim = "" Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " DC No Should Not Blank :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+
+                    If Val(lExcelDatatable.Rows(liIndex).Item("Cheque Count").ToString.Trim) = 0 Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & "Cheque Count Should Not Zero :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+                    If lExcelDatatable.Rows(liIndex).Item("Sent To").ToString.Trim = "" Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Sent To Should Not Blank :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+                    If lExcelDatatable.Rows(liIndex).Item("Cheque No").ToString.Trim = "" Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Cheque No Should Not Blank :- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+                    If Not IsDate(lExcelDatatable.Rows(liIndex).Item("Sent On").ToString.Trim) Then
+                        lidup += 1
+                        liIsDuplicate += 1
+                        lsDuplicatedtl = Now() & " Invalid Sent On date:- " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                        PrintLine(1, lsDuplicatedtl)
+                        GoTo GoNext1
+                    End If
+
+                    ''Check for Duplicate
+                    'lssql = " Select handsoff_gid from chola_trn_thandsoff where " & _
+                    '            " handsoff_agreementno='" & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & "'"
+
+                    'lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    ''Write Dulicate Record in Error log
+                    'If Val(lsFileGid) > 0 Then
+                    '    lidup += 1
+                    '    liIsDuplicate += 1
+                    '    lsDuplicatedtl = Now() & " Duplicate exist " & lExcelDatatable.Rows(liIndex).Item("Agreement No").ToString.Trim & " "
+                    '    PrintLine(1, lsDuplicatedtl)
+                    '    GoTo GoNext1
+                    'End If
+
+                    'Check for Duplicate
+                    lssql = " Select handsoff_gid from chola_trn_thandsoff where " & _
+                                " handsoff_shortagreementno='" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "'"
+
+                    lsFileGid = gfExecuteScalar(lssql, gOdbcConn)
+
+                    'Write Dulicate Record in Error log
+                    If Val(lsFileGid) > 0 Then
+
+                        lssql = " select entry_gid from chola_trn_thandsoffentry where entry_shortagreementno='" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "'"
+                        lssql &= " and entry_chqno='" & lExcelDatatable.Rows(liIndex).Item("Cheque No").ToString.Trim & "'"
+
+                        lschqcnt = gfExecuteScalar(lssql, gOdbcConn)
+
+                        If Val(lschqcnt) > 0 Then
+                            lidup += 1
+                            liIsDuplicate += 1
+                            lsDuplicatedtl = Now() & " Duplicate exist " & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Cheque No").ToString), 6) & ""
+                            PrintLine(1, lsDuplicatedtl)
+                            GoTo GoNext1
+                        End If
+                    End If
+
+                    Try
+
+                        If Val(lsFileGid) = 0 Then
+                            lssql = " Insert into chola_trn_thandsoff (file_mst_gid,handsoff_agreementno,handsoff_shortagreementno,handsoff_repaymentmode,"
+                            lssql &= "handsoff_customername,handsoff_type,handsoff_remarks,handsoff_dcno,handsoff_chqcnt,handsoff_to,handsoff_handsoffdate,handsoff_importdate) values ("
+                            lssql &= lsFileMstGid & ","
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString) & "',"
+                            lssql &= "'" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Repayment Mode").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Customer Name").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Type").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Remarks").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("DC No").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Cheque Count").ToString) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Sent To").ToString) & "',"
+                            lssql &= "'" & Format(CDate(QuoteFilter(lExcelDatatable.Rows(liIndex)("Sent On").ToString)), "yyyy-MM-dd") & "',"
+                            lssql &= "sysdate())"
+
+                            fsResult = gfInsertQry(lssql, gOdbcConn)
+
+                            If Val(fsResult) = 0 Then
+                                MessageBox.Show("Some Error occurred while inserting ", "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                            End If
+
+                            lssql = " insert into chola_trn_thandsoffentry(entry_shortagreementno,entry_chqno,entry_insertby,entry_insertdate) values ("
+                            lssql &= "'" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Cheque No").ToString) & "',"
+                            lssql &= "'" & gUserName & "',sysdate())"
+
+                            fsResult = gfInsertQry(lssql, gOdbcConn)
+
+                            If Val(fsResult) = 0 Then
+                                MessageBox.Show("Some Error occurred while inserting ", "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                            End If
+                        Else
+                            lssql = " insert into chola_trn_thandsoffentry(entry_shortagreementno,entry_chqno,entry_insertby,entry_insertdate) values ("
+                            lssql &= "'" & Microsoft.VisualBasic.Right(QuoteFilter(lExcelDatatable.Rows(liIndex)("Agreement No").ToString), 6) & "',"
+                            lssql &= "'" & QuoteFilter(lExcelDatatable.Rows(liIndex)("Cheque No").ToString) & "',"
+                            lssql &= "'" & gUserName & "',sysdate())"
+
+                            fsResult = gfInsertQry(lssql, gOdbcConn)
+
+                            If Val(fsResult) = 0 Then
+                                MessageBox.Show("Some Error occurred while inserting ", "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                            End If
+                        End If
+                        lival += 1
+                    Catch ex As Exception
+                        MsgBox("Error occured in inserting", MsgBoxStyle.Information, gProjectName)
+                        Application.UseWaitCursor = False
+                        Exit Sub
+                    End Try
+GoNext1:
+                Next
+            End If
+            FileClose(1)
+
+            If liIsDuplicate > 0 Then
+                System.Diagnostics.Process.Start(lsErrorLogPath)
+            End If
+
+        Catch ex As Exception
+            FileClose(1)
+            MessageBox.Show(ex.Message, "CHOLA", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Try
+    End Sub
+
+    Private Sub btnBrowse_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBrowse.Click
+        OpenFileDialog.Filter = "Excel Files|*.xls"
+        OpenFileDialog.ShowDialog()
+
+        If OpenFileDialog.FileName.Length <> 0 Then
+            txtFileName.Text = OpenFileDialog.FileName
+        End If
+        Call LoadSheet()
+        Exit Sub
+    End Sub
+
+    Private Sub frmhandsoffimport_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
+        If e.KeyCode = Keys.Enter Then SendKeys.Send("{TAB}")
+    End Sub
+
+    Private Sub frmhandsoffimport_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        lblTotal.Visible = False
+        Me.KeyPreview = True
+        txtFileName.Focus()
+        txtFileName.Text = ""
+    End Sub
+
+    Private Sub btnExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExit.Click
+        Me.Close()
+    End Sub
+End Class

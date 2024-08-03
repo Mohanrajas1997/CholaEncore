@@ -1,0 +1,18 @@
+alter table chola_trn_toldswappacket add swap_gid int not null default 0 after newpacket_gid;
+alter table chola_trn_tspdcchqentrydelete add chqentry_accno varchar(32) default null after chqentry_micrcode;
+alter table chola_trn_tspdcchqentrydelete add chqentry_branchname varchar(125) default null after chqentry_micrcode;
+alter table chola_trn_tspdcchqentrydelete add chqentry_bankname varchar(225) default null after chqentry_micrcode;
+alter table chola_trn_tspdcchqentrydelete add chqentry_bankcode char(3) default null after chqentry_micrcode;
+CREATE TABLE  `chola`.`chola_trn_tswap` (
+  `swap_gid` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `swapfile_gid` int(11) NOT NULL DEFAULT '0',
+  `swap_date` date DEFAULT NULL,
+  `shortagreement_no` varchar(8) DEFAULT NULL,
+  `agreement_gid` int(10) unsigned NOT NULL,
+  `oldpacket_count` tinyint(3) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`swap_gid`),
+  KEY `idx_shortagreement_no` (`shortagreement_no`),
+  KEY `idx_agreement_gid` (`agreement_gid`),
+  KEY `idx_swapfile_gid` (`swapfile_gid`),
+  KEY `idx_swap_date` (`swap_date`)
+);

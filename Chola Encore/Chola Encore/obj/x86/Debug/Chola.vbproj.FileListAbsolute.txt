@@ -1,0 +1,1254 @@
+D:\VSS\Vijay\CITI\SOURCES\Chola\bin\Debug\Chola.exe.config
+D:\VSS\Vijay\CITI\SOURCES\Chola\bin\Debug\Chola.exe
+D:\VSS\Vijay\CITI\SOURCES\Chola\bin\Debug\Chola.pdb
+D:\VSS\Vijay\CITI\SOURCES\Chola\bin\Debug\Chola.xml
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmalmaraentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmaudittrail.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmauthdateupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmauthimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmauthsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbankmaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbankreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBatchCreation.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbatchdespatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbatchentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbatchsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbounceentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbounceimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbounceinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbouncereason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmbouncereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmchequeentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmchqentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmchqentrybatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmchqentrydelete.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmcitymaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmclosureimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmclosurereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmclosuresummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmctsauditsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmctsreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmctssummaryreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmcyclereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmdocumentunlock.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmEntryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmcholaMIS.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmfinoneimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmfinonereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmgetrefno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmholidayreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frminward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frminwardimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frminwardreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frminwardsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmanualbatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmicrmaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmicrreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmismatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.FrmEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmFileReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frminventory.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmMain.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmmstfile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpacketaudit.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpacketauditnew.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpacketpullout.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPatchupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostbankdetails.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostfinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostproductupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpostwithfinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpouchinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmproductupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpulloutentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmQuickView.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmrebatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmreinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmreinwardsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmrejectreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmremovefinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmretrievalentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmretrievalimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmretrievalmissingentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmretrievalreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmretrievalsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.Search.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmupdateagreementno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmupdateauthdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmviewentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpacketmis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmsosmis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmspeedmicr.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmupdateentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmupdatepacket.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmupdaterefno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmFinoneRecon.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.Resources.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.exe
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.xml
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.pdb
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmAgreementReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmcityreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmQryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmReportQryMaking.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmSearchEngine.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPdcChqRpt.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmStockMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPost.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmInwardMisNew.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmDelInwardFile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmImport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmBounceMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPktMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmTransferCheque.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmSwapReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmPacketReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmDelSwapFile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmSwapList.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola\obj\x86\Debug\Chola.frmSwapListReport.resources
+D:\users\vijay\Chola\bin\Debug\Chola.exe.config
+D:\users\vijay\Chola\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+D:\users\vijay\Chola\obj\x86\Debug\Chola.exe
+D:\users\vijay\Chola\obj\x86\Debug\Chola.xml
+D:\users\vijay\Chola\obj\x86\Debug\Chola.pdb
+D:\users\vijay\Chola\bin\Debug\Chola.exe
+D:\users\vijay\Chola\bin\Debug\Chola.pdb
+D:\users\vijay\Chola\bin\Debug\Chola.xml
+D:\users\vijay\Chola\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmAgreementReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmalmaraentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmaudittrail.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmauthdateupdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmauthimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmauthsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbankmaster.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbankreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBatchCreation.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbatchdespatch.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbatchentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbatchreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbatchsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbounceentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbounceimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbounceinward.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbouncereason.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmbouncereport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmchequeentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmchqentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmchqentrybatch.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmchqentrydelete.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmcitymaster.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmcityreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmclosureimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmclosurereport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmclosuresummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmctsauditsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmctsreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmctssummaryreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmcyclereport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmDelInwardFile.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmDelSwapFile.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmdocumentunlock.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmEntryReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmcholaMIS.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmfinoneimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmfinonereport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmgetrefno.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmholidayreason.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmImport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frminward.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frminwardimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frminwardreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frminwardsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmanualbatch.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmicrmaster.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmicrreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmismatchreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.FrmEntry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmFileReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frminventory.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmMain.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmmstfile.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpacketaudit.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpacketauditnew.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpacketpullout.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPatchupdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPost.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostbankdetails.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostfinone.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostproductupdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpostwithfinone.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpouchinward.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmproductupdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpulloutentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmQryReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmQuickView.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmrebatch.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmreinward.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmreinwardsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmrejectreason.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmremovefinone.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmReportQryMaking.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmretrievalentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmretrievalimport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmretrievalmissingentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmretrievalreport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmretrievalsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.Search.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmTransferCheque.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmupdateagreementno.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmupdateauthdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmupdatepacket.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmviewentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBounceMis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmInwardMisNew.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpacketmis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPktMis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmStockMis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmsosmis.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmspeedmicr.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmupdateentry.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmupdaterefno.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmFinoneRecon.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.Resources.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPacketReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmPdcChqRpt.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmSearchEngine.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmSwapList.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmSwapListReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\Chola.frmSwapReport.resources
+D:\users\vijay\Chola\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\users\vijay\Chola\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\VSS\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe.config
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.exe
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.xml
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.pdb
+D:\VSS\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe
+D:\VSS\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.pdb
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAgreementReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmalmaraentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmaudittrail.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthdateupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankmaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchCreation.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchequeentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrybatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrydelete.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcitymaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcityreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosureimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosurereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosuresummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsauditsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctssummaryreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcyclereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelInwardFile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelSwapFile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmdocumentunlock.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmEntryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcholaMIS.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinoneimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonereport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgetrefno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmholidayreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmImport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmicrmaster.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmicrreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmismatchreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.FrmEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFileReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminventory.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmMain.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstfile.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketaudit.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketauditnew.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketpullout.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPatchupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPost.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostbankdetails.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostproductupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostwithfinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmproductupdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQuickView.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebatch.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinward.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinwardsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrejectreason.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinone.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmReportQryMaking.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmretrievalentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmretrievalimport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmretrievalmissingentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmretrievalreport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmretrievalsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Search.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmTransferCheque.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateagreementno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateauthdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdatepacket.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmviewentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmInwardMisNew.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketmis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktMis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmsosmis.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmspeedmicr.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateentry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdaterefno.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFinoneRecon.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Resources.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSearchEngine.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapList.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapListReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\VSS\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.xml
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktDetailRpt.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSpdcPulloutEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSPDCPulloutReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmChqSearchEngine.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseChqEntry.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseEntryReport.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryDelete.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPouchInwardAuth.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMisNew.resources
+D:\VSS\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe.config
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.xml
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.pdb
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.pdb
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.xml
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAgreementReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmalmaraentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmaudittrail.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthdateupdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankmaster.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchCreation.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatch.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryDelete.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinward.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereason.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchequeentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrybatch.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrydelete.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcitymaster.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcityreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosureimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosurereport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosuresummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsauditsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctssummaryreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcyclereport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelInwardFile.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelSwapFile.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmdocumentunlock.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmEntryReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcholaMIS.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinoneimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonereport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgetrefno.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmholidayreason.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmImport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminward.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardimport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseChqEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatch.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmismatchreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.FrmEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFileReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminventory.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmMain.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstfile.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketaudit.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketauditnew.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketpullout.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPatchupdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPost.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinone.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostproductupdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostwithfinone.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchinward.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPouchInwardAuth.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmproductupdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQryReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQuickView.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebatch.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinward.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinwardsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrejectreason.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinone.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmReportQryMaking.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Search.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSpdcPulloutEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmTransferCheque.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateagreementno.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateauthdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdatepacket.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmviewentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceMis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmInwardMisNew.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketmis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktMis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMisNew.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmsosmis.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateentry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdaterefno.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFinoneRecon.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Resources.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmChqSearchEngine.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseEntryReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktDetailRpt.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSearchEngine.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSPDCPulloutReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapList.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapListReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.exe
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketPulloutReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPdcSpdcPulloutEntry.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketPulloutNew.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmChngPktPayMode.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDeleteFile.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPreconvReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmImpFileReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPostconvReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmUndoPullout.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketBlock.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketBlockReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFinoneReconNew.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchSummReport.resources
+D:\VSS-NMR\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmProductivityMIS.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe.config
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.exe
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.xml
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.exe
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\bin\Debug\Chola.xml
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAgreementReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmalmaraentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmaudittrail.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthdateupdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmauthsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankmaster.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbankreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchCreation.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbatchsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBatchSummReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryDelete.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinward.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereason.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmbouncereport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchequeentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmChngPktPayMode.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrybatch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmchqentrydelete.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcitymaster.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcityreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosureimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosurereport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmclosuresummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsauditsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctsreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmctssummaryreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcyclereport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDeleteFile.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelInwardFile.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmDelSwapFile.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmdocumentunlock.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmEntryReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmcholaMIS.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinoneimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonereport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmgetrefno.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmholidayreason.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminward.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardimport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminwardsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseChqEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmismatchreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.FrmEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFileReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frminventory.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmMain.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmmstfile.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketaudit.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketauditnew.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketBlock.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketPullout.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketPulloutNew.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPatchupdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPdcSpdcPulloutEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPost.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinone.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostproductupdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpostwithfinone.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchinward.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPouchInwardAuth.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmproductupdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQryReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmQuickView.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrebatch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinward.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreinwardsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmrejectreason.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinone.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmReportQryMaking.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Search.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSpdcPulloutEntry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmTransferCheque.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmUndoPullout.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateagreementno.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateauthdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdatepacket.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmviewentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceMis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFinoneRecon.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmFinoneReconNew.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmInwardMisNew.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketmis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktMis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmProductivityMIS.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmStockMisNew.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmsosmis.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdateentry.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmupdaterefno.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.Resources.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmChqSearchEngine.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmImpFileReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmLooseEntryReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketBlockReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketPulloutReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPacketReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPktDetailRpt.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPostconvReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPreconvReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmPulloutReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSearchEngine.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSPDCPulloutReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapList.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapListReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.frmSwapReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola New\obj\x86\Debug\Chola.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\bin\Debug\Chola.exe.config
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.xml
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.pdb
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\bin\Debug\Chola.exe
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\bin\Debug\Chola.pdb
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\bin\Debug\Chola.xml
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmAgreementReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmalmaraentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmaudittrail.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmauthdateupdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmauthimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmauthsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbankmaster.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbankreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBatchCreation.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbatchdespatch.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbatchentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbatchreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbatchsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBatchSummReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbounceentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBounceEntryDelete.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbounceimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbounceinward.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbouncereason.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmbouncereport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmchequeentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmChngPktPayMode.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmchqentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmchqentrybatch.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmchqentrydelete.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmcitymaster.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmcityreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmclosureimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmclosurereport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmclosuresummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmctsauditsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmctsreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmctssummaryreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmcyclereport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmDeleteFile.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmDelInwardFile.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmDelSwapFile.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmdocumentunlock.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmEntryReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmcholaMIS.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmfinoneimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmfinonereport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmgetrefno.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmholidayreason.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmImport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminward.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminwardimport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminwardreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminwardsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmLooseChqEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmmanualbatch.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmmismatchreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.FrmEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmFileReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminventory.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmMain.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmmstfile.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpacketaudit.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpacketauditnew.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketBlock.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketPullout.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketPulloutNew.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPatchupdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPdcSpdcPulloutEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPost.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostfinone.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostproductupdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpostwithfinone.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpouchinward.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPouchInwardAuth.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmproductupdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpulloutentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmQryReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmQuickView.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmrebatch.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmreinward.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmreinwardsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmrejectreason.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmremovefinone.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmReportQryMaking.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.Search.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSpdcPulloutEntry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmTransferCheque.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmUndoPullout.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmupdateagreementno.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmupdateauthdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmupdatepacket.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmviewentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBounceMis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmFinoneRecon.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmFinoneReconNew.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmInwardMisNew.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpacketmis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPktMis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmProductivityMIS.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmStockMis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmStockMisNew.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmsosmis.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmupdateentry.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmupdaterefno.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.Resources.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmChqSearchEngine.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmImpFileReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmLooseEntryReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketBlockReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketPulloutReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPacketReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPktDetailRpt.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPostconvReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPreconvReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmPulloutReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSearchEngine.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSPDCPulloutReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSwapList.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSwapListReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frmSwapReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.exe
+E:\user\Vijayavel\vss\nmr\Vijay\CITI\SOURCES\Chola Current\obj\x86\Debug\Chola.frminwardupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\bin\Debug\Chola.exe.config
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.pdb
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\bin\Debug\Chola.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\bin\Debug\Chola.pdb
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\bin\Debug\Chola.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmAgreementReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmaudittrail.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmauthdateupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmauthimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmAuthrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmauthremovalpostentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmauthsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbankmaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbankreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBatchCreation.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbatchdespatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbatchdespatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBatchSingleEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbatchsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBatchSummReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbounceentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBounceEntryDelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbounceimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbounceinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbounceinwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbouncepulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbouncereason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmbouncereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmchequeentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmChngPktPayMode.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmchqentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmchqentrybatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmchqentrydelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmcitymaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmcityreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmclosureimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmclosurereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmclosuresummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmctsauditsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmctsreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmctssummaryreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmcyclereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmDelInwardFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmDelSwapFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmdocumentunlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmcholaMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmFindOldSwapPkt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmfinoneimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmfinonepreconverfileimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmfinonereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmgeneratepostcondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmgenerateprecondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmgetrefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmholidayreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminwardimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminwardupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmLooseChqEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmmanualbatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmmanualbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmmismatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmmstpulloutreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.FrmEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frminventory.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmmstfile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmOldSwapPktCancelEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmOldSwapPktEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpacketaudit.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpacketauditnew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketBlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketPulloutNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPatchupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPdcSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPost.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostfinonepreconver.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpostwithfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpouchinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPouchInwardAuth.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpouchnotreceived.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpouchrejectreverse.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpreconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpulloutreverseentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPulloutReverseSummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmrebacthprodwise.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmrebatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmreinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmreinwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmremovefinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmremovefinonepreconversion.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmReportQryMaking.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmreversepreconversiondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmRevTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.Search.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmUndoFinoneMapping.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmUndoPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmupdateagreementno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmupdateauthdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmupdatepacket.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmviewentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBounceInwardMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBounceMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmFinoneRecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmFinoneReconNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmInwardMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpacketmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPktMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmProductivityMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmStockMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmStockMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmwarehouseMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmsosmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmpacketpulloutsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmupdateentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmupdaterefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.SPDCPatchUpdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmfinonepreconverrecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBounceDumpReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmBounceEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmChqSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmImpFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmLooseEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketBlockReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPacketReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPktDetailRpt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPostconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPreconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSPDCPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSwapList.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSwapListReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.frmSwapReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Current\obj\x86\Debug\Chola.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Chola.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Chola.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Chola.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe.config
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.pdb
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\bin\Debug\Encore.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAgreementReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmaudittrail.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthdateupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmAuthrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthremovalpostentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmauthsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankmaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbankreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchCreation.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchdespatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSingleEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbatchsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBatchSummReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryDelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbounceinwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncepulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmbouncereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchequeentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChngPktPayMode.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrybatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmchqentrydelete.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcitymaster.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcityreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosureimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosurereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmclosuresummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsauditsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctsreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmctssummaryreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcyclereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelInwardFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmDelSwapFile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmdocumentunlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmcholaMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFindOldSwapPkt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinoneimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverfileimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonereport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgeneratepostcondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgenerateprecondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmgetrefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmholidayreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardimport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminwardupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseChqEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmanualbatchentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmismatchreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstpulloutreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.FrmEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frminventory.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmmstfile.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktCancelEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmOldSwapPktEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketaudit.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketauditnew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlock.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPatchupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPdcSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPost.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostalmaraentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostfinonepreconver.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpostwithfinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPouchInwardAuth.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchnotreceived.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpouchrejectreverse.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpreconvdiscreport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmproductupdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpulloutreverseentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReverseSummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebacthprodwise.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrebatch.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinward.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreinwardsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmrejectreason.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinone.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmremovefinonepreconversion.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmReportQryMaking.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmreversepreconversiondisc.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmRevTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Search.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSpdcPulloutEntry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmTransferCheque.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoFinoneMapping.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmUndoPullout.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateagreementno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateauthdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdatepacket.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmviewentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceInwardMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneRecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmFinoneReconNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmInwardMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmProductivityMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmStockMisNew.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmwarehouseMIS.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmsosmis.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmpacketpulloutsummary.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdateentry.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmupdaterefno.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.SPDCPatchUpdate.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmfinonepreconverrecon.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceDumpReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmBounceEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmChqSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmImpFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmLooseEntryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketBlockReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPacketReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPktDetailRpt.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPostconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPreconvReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSearchEngine.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSPDCPulloutReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapList.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapListReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.frmSwapReport.resources
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.exe
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.xml
+E:\user\Vijayavel\Work At Home\vss\Citi\Chola Encore\obj\x86\Debug\Encore.pdb
